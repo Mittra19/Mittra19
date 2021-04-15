@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 <img src="https://cdn.acodez.in/wp-content/uploads/2019/07/What-is-the-future-and-scope-of-web-development-career-banner.jpg"/>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“If the code and the comments do not match, possibly both are incorrect.”— Norm Schryer   ❞</i>
+<i>❝“Computers are good at following instructions, but not at reading your mind.”— Donald Knuth   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
