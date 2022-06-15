@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 <img src="https://cdn.acodez.in/wp-content/uploads/2019/07/What-is-the-future-and-scope-of-web-development-career-banner.jpg"/>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝If there was a computer as powerful as the human brain, it would be able to do 38 thousand trillion operations per second and hold more than 3580 terabytes of memory.❞</i>
+<i>❝A professional typist types fast and types great amount of words daily. If we measure this as distance, than it will become 12.6 miles a day for the fingers of the typist to cover each day.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
