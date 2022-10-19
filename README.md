@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 <img src="https://cdn.acodez.in/wp-content/uploads/2019/07/What-is-the-future-and-scope-of-web-development-career-banner.jpg"/>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“As data scientists, our job is to extract signal from noise.”— Daniel Tunkelang❞</i>
+<i>❝“The problem of viruses is temporary and will be solved in two years.”— John McAfee, 1988  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
