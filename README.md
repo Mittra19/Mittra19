@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 <img src="https://cdn.acodez.in/wp-content/uploads/2019/07/What-is-the-future-and-scope-of-web-development-career-banner.jpg"/>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“In an information economy, the most valuable company assets drive themselves home every night.  If they are not treated well, they do not return the next morning.”— Peter Chang  ❞</i>
+<i>❝Well, there are two games that were the first ever made in the US called Asteroids and Lunar Lander in 1980.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
