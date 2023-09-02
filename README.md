@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 <img src="https://cdn.acodez.in/wp-content/uploads/2019/07/What-is-the-future-and-scope-of-web-development-career-banner.jpg"/>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Low-level programming is good for the programmer’s soul.”— John Carmack   ❞</i>
+<i>❝“Hoaxes use weaknesses in human behavior to ensure they are replicated and distributed.  In other words, hoaxes prey on the Human Operating System.”— Stewart Kirkpatrick   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
