@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 <img src="https://cdn.acodez.in/wp-content/uploads/2019/07/What-is-the-future-and-scope-of-web-development-career-banner.jpg"/>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“If you don’t handle [exceptions], we shut your application down.  That dramatically increases the reliability of the system.”— Anders Hejlsberg   ❞</i>
+<i>❝A group of 12 engineers designed IBM PC and they were called as “The Dirty Dozen”.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
